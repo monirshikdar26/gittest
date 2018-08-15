@@ -12,3 +12,5 @@ git installation on ubuntu
 11. git commt -m 'first commit'
 12. git remote add origin https://github.com/monirshikdar26/gittest.git
 13. git push -u origin master
+14. goto github website and refresh website
+15. end.
