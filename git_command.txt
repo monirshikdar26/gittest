@@ -1,0 +1,14 @@
+git installation on ubuntu
+1. sudo apt install git 
+2. git --version
+3. git config --global user.name "monirshikdar26"
+4. git config --global user.email "monirshikdar26@gmail.com"
+5. goto github website and create a git repository
+6. mkdir gittest
+7. cd gittest
+8. git init
+9. gedit README.md
+10. git add .
+11. git commt -m 'first commit'
+12. git remote add origin https://github.com/monirshikdar26/gittest.git
+13. git push -u origin master
